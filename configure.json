@@ -1,0 +1,11 @@
+{
+    "structure": [
+                      {
+                      "controllerName": "TaskNoteMainVC",
+                      "tabBarItemTitle": "工作日志",
+                      "tabBarNavigationItemTitle": "工作日志",
+                      "tabBarItemImage": "plain",
+                      "nav": "1"
+                      }
+                  ]
+}
